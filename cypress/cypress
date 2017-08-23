@@ -1,1 +1,9 @@
 
+De las pruebas 1 a la 6:
+
+- Dejar corriendo el ng serve que ya apunta a la direccion 'http://localhost:4200/dashboard'
+
+- Cada prueba se ejecuta en cada uno de los folders y se automatiza chrome, se usa el comando:
+
+protractor protractor.conf.js
+
